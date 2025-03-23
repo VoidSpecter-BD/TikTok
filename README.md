@@ -1,11 +1,11 @@
-TikTok SMM Panel (Fake Version) - Android Installation
+# TikTok SMM Panel - Android Installation
 
 This guide will help you install and run the TikTok SMM Panel (Fake Version) on your Android device.
 
 
 ---
 
-Installation Guide
+# Installation Guide
 
 1. Install Required Apps
 
@@ -31,7 +31,7 @@ Open Termux and run:
 pkg update && pkg upgrade -y
 pkg install nodejs git -y
 
-Verify installation:
+# Verify installation:
 
 node -v
 npm -v
@@ -74,7 +74,7 @@ node TikTok.js
 
 ---
 
-Troubleshooting
+# Troubleshooting
 
 Termux Permission Issues? Run:
 
@@ -92,12 +92,12 @@ npm install --force
 
 ---
 
-Disclaimer
+# Disclaimer
 
-This project is for educational purposes only. It does not provide real TikTok services and is meant for learning.
+# This project is for educational purposes only. It does not provide real TikTok services and is meant for learning.
 
 
 ---
 
-Now, enjoy running the script on your Android device!
+# Now, enjoy running the script on your Android device!
 
