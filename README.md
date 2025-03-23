@@ -1,6 +1,6 @@
 # TikTok SMM Panel - Android Installation
 
-This guide will help you install and run the TikTok SMM Panel (Fake Version) on your Android device.
+This guide will help you install and run the TikTok SMM Panel on your Android device.
 
 
 ---
